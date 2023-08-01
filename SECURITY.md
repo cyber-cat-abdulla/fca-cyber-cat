@@ -15,4 +15,4 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 
 Contact Author
-fb.me/AB4UL1A.49
+https://www.facebook.com/AB4UL1A.49
