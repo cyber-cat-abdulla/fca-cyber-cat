@@ -1,22 +1,22 @@
 {
-  "name": "team-atf",
+  "name": "fca-cyber-cat",
   "version": "3.0.0",
-  "description": "Fca Made By Mr Chand",
+  "description": "Fca Made By Abdulla tECH 49",
   "main": "Index.js",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint *.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "CHAND TRICKER",
+  "author": "ABDULLA RAHAMAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/corazoncary/team-atf/issues"
+    "url": "https://github.com/cyber-cat-abdulla/fca-cyber-cat/issues"
   },
-  "homepage": "https://github.com/corazoncary/team-atf#readme",
+  "homepage": "https://github.com/cyber-cat-abdulla/fca-cyber-cat#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/corazoncary/team-atf.git"
+    "url": "git://github.com/cyber-cat-abdulla/fca-cyber-cat.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -84,8 +84,8 @@
     }
   },
   "keywords": [
-     "fca Team"
-     "atf fca"
+     "fca cyber cat"
+     "cyber cat fca"
      "team-atf"
     " team-atf-2"
     
