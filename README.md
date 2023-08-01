@@ -1,32 +1,27 @@
-# Atf fca bot Made By Mr Chand 
-# Atf Team
-CHAND TRICKER
-JORDAN
-WINNER
-ALI BABA
-💸💸💸💸💸💸💸
+# CYBER-CAT FCA MAKE BY ABDULLA TECH 49
+# ABDULLA RAHAMAN
 
 # Facebook Account 
-fb.com/CH4ND.CH4ND
+fb.com/AB4UL1A.49
 
 ================================
-How To Use this fca bot 
+HOW TO USE THIS API 
 
-# 💜 1 💜
+# 💜 49 💜
 
 # Mirai Change 
 
-team-atf
-team-atf-2 
+fca-cyber-cat
+@cyber-abdulla/fca-cyber-cat
 
 Change in Mirai 
 
 # 💸 2 💸
 
-# install fca
+# INSTALL FCA 
 
-npm i team-atf
-npm i team-atf-2 
+npm i fca-cyber-cat
+npm i fca-cyber-cat
 
 # 💜 3 💜
 
